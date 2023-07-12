@@ -1,7 +1,8 @@
 # Calculator-Windows
 A complete and <b>customizable calculator</b><hr>
 ### [INSTRUCTIONS]
-to use the calculator open the exe file directly or if you prefer copy the files of the folders.
+to use the calculator open the exe file directly or if you prefer copy the files of the folders.<hr>
+### [FEATURES]
 <b><ul>
   <li>Dark and light version</li>
   <li>pre-established colors</li>
